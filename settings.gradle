@@ -1,0 +1,2 @@
+rootProject.name='TestSealessLoginPsh'
+include ':app'
